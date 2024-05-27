@@ -1,0 +1,15 @@
+.descriptionTextWrapper {
+    display: flex;
+    flex-direction: row;
+    font-size: 12px;
+    margin-bottom: 12px;
+    gap: 4px;
+}
+
+.descriptionTextHead {
+    font-weight: 600 ;
+}
+
+.descriptionTextValue {
+    font-weight: 300 ;
+}

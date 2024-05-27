@@ -1,0 +1,11 @@
+.homeButton {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    color: var(--dark-text);
+}
+
+.buttonIcon {
+    color: var(--dark-text);
+}
