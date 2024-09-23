@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# REST Countries API App
 
-## Getting Started
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Preview](#Preview)
 
-First, run the development server:
+## General info
+This project consisted of creating a simple REST Countries API to pull country data and display it like in the designs.
+The project was written in NEXT.JS, as part of a consolidation of the acquired knowledge of the props, components, hooks, Tailwind CSS, as well as fetching and using the data from API.
+Link: https://countries-api-ev0.netlify.app
+	
+## Technologies
+Project is created with:
+* NEXT.JS
+* React
+* HTML
+* CSS
+* Tailwind CSS
+* JavaScript
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Preview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Desktop view - Main Page - Dark Theme
+* ![countries1](https://github.com/user-attachments/assets/6ccc3728-a088-4b6b-a4e7-e12e21ae478e)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+Desktop view - Country Details Page - Dark Theme
+* ![countries2](https://github.com/user-attachments/assets/316bd6fe-4fb5-45fa-8815-aec79abe21a3)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Mobile view - Main Page - Dark Theme
+* ![countries3](https://github.com/user-attachments/assets/7e26b794-9bc7-4f23-a55a-483177107792)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Mobile view - Country Details Page - Dark Theme
+* ![countries4](https://github.com/user-attachments/assets/65ac8935-58a2-4a9f-9aa3-5bfaa8facdd1)
 
-## Deploy on Vercel
+Mobile view - Main Page - Light Theme
+* ![countries5](https://github.com/user-attachments/assets/3ad83508-711d-4c1a-8eac-965411a480da)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Mobile view - Country Details Page - Light Theme
+* ![countries6](https://github.com/user-attachments/assets/ce25de53-e823-4ca1-8d28-53128a9d0e07)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
